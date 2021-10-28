@@ -129,6 +129,7 @@ Cosmic: {
     mu2e: {
       writeEventIDs : true
       MaxEventsToSkip: @nil
+      resampleMultipleSubruns: false
       products: {
         genParticleMixer: { mixingMap: [ [ "generate", "" ] ] }
         simParticleMixer: { mixingMap: [ [ "cosmicFilter", ""] ] }
