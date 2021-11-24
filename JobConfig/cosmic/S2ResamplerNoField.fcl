@@ -8,3 +8,4 @@ physics.filters.DetStepFilter.MaximumPartMom : 1e7
 physics.filters.DetStepFilter.MinimumPartMom : 20.0
 # customize the output
 outputs.Output.fileName: "dts.owner.CosmicNoField.version.sequencer.art"
+outputs.LooseOutput.fileName: "dts.owner.CosmicLooseNoField.version.sequencer.art"
