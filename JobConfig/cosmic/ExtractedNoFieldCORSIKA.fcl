@@ -17,4 +17,4 @@ source: {
 
 physics.producers.generate : @local::Cosmic.generateCORSIKA
 
-outputs.Output.fileName         : "sim.owner.CosmicCORSIKANoFieldExtracted.version.sequencer.art"
+outputs.Output.fileName         : "dts.owner.CosmicCORSIKAExtractedNoField.version.sequencer.art"
